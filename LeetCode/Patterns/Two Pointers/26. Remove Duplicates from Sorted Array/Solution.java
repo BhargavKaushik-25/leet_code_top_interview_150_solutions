@@ -1,7 +1,8 @@
-class Solution {
-    //Remove Duplicates from sorted array
-    public int removeDuplicates(int[] nums) {
-         int count = 0,k=0;
+class Solution 
+{
+    public int removeDuplicates(int[] nums) 
+    {
+        int count = 0,k=0;
         for(int i = 0;i<nums.length;i++)
         {
             int k1 = i+1;
@@ -22,5 +23,4 @@ class Solution {
         }
         return nums.length-count;
     }
-    
 }
