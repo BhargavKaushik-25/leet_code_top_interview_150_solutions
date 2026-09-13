@@ -1,0 +1,10 @@
+            }
+                }
+                    max = diff;
+                if (max < diff) {
+                int diff = prices[j] - prices[i];
+            for (int j = i + 1; j < prices.length; j++) {
+        }
+        return max;
+    }
+}
