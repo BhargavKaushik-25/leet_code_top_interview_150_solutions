@@ -1,6 +1,6 @@
 # 📝 121. Best Time to Buy and Sell Stock (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/?envType=study-plan-v2&envId=top-interview-150)
+🔗 [Problem Link](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/solutions/8508987/one-pass-solution-on-time-o1-space-by-go-k46x/?envType=study-plan-v2&envId=top-interview-150)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Easy-brightgreen) ![Language](https://img.shields.io/badge/Language-Plaintext-blue)
 

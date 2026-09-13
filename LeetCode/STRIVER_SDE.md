@@ -15,7 +15,7 @@ Track your progress on the Striver's SDE Sheet top interview problems.
 - [ ] Next Permutation
 - [ ] Maximum Subarray
 - [ ] Sort Colors
-- [x] [Best Time to Buy and Sell Stock](./Java/Easy/121. Best Time to Buy and Sell Stock/)
+- [x] [Best Time to Buy and Sell Stock](./Plaintext/Easy/121. Best Time to Buy and Sell Stock/)
 - [ ] Rotate Image
 - [ ] Merge Intervals
 - [ ] Find the Duplicate Number

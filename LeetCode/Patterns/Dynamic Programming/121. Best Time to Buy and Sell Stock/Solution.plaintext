@@ -4,7 +4,8 @@
                 if (max < diff) {
                 int diff = prices[j] - prices[i];
             for (int j = i + 1; j < prices.length; j++) {
-        }
-        return max;
-    }
-}
+        for (int i = 0; i < prices.length; i++) {
+
+        int max = 0;
+    public int maxProfit(int[] prices) {
+class Solution {
