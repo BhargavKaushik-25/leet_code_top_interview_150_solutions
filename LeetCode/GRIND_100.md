@@ -100,7 +100,7 @@ Track your progress on the Grind 100 coding interview preparation list.
 - [ ] Minimum Path Sum
 - [ ] Target Sum
 - [ ] Unique Binary Search Trees
-- [x] [Best Time to Buy and Sell Stock](./Plaintext/Easy/121. Best Time to Buy and Sell Stock/)
+- [x] [Best Time to Buy and Sell Stock](./Java/Easy/121. Best Time to Buy and Sell Stock/)
 - [ ] Best Time to Buy and Sell Stock with Cooldown
 - [ ] Perfect Squares
 - [ ] Maximal Square
