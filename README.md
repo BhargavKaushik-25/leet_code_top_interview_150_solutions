@@ -11,6 +11,7 @@ This repository contains my solutions of the top interview 150 questions of leet
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0189-rotate-array) |
 ## Two Pointers
@@ -50,4 +51,9 @@ This repository contains my solutions of the top interview 150 questions of leet
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
