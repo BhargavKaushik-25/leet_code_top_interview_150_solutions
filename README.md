@@ -8,6 +8,7 @@ This repository contains my solutions of the top interview 150 questions of leet
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0027-remove-element) |
+| [0055-jump-game](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -50,10 +51,12 @@ This repository contains my solutions of the top interview 150 questions of leet
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
