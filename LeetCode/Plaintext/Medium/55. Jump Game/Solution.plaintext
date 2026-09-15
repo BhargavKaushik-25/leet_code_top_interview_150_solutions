@@ -1,0 +1,12 @@
+            // Update the farthest index we can reach
+
+            }
+                return false;
+            maxReach = Math.max(maxReach, i + nums[i]);
+
+            // If we can already reach or pass the last index, return true
+            if (maxReach >= nums.length - 1) {
+                return true;
+            }
+        }
+
