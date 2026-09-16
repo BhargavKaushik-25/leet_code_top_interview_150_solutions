@@ -153,7 +153,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 ### 📂 Greedy
 - [ ] Maximum Subarray
 - [x] [Jump Game](./Java/Medium/55. Jump Game/)
-- [x] [Jump Game II](./Plaintext/Medium/45. Jump Game II/)
+- [x] [Jump Game II](./Java/Medium/45. Jump Game II/)
 - [ ] Gas Station
 - [ ] Hand of Straights
 - [ ] Merge Triplets to Form Target Triplet
