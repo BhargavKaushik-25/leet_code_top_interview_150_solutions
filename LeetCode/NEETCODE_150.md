@@ -152,7 +152,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 
 ### 📂 Greedy
 - [ ] Maximum Subarray
-- [x] [Jump Game](./Plaintext/Medium/55. Jump Game/)
+- [x] [Jump Game](./Java/Medium/55. Jump Game/)
 - [ ] Jump Game II
 - [ ] Gas Station
 - [ ] Hand of Straights
