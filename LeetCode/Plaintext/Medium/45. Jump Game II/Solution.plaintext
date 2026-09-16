@@ -1,11 +1,11 @@
-        int count = 0 ;
-        for(int i = 0; i < nums.length; i++){
-            count++;
-            m = Math.max(m, i+ nums[i]);
-
-            if(m==nums.length-1){
-                break;
+            int farthest = 0;
+            for (int i = near; i <= far; i++) {
+                farthest = Math.max(farthest, i + nums[i]);
             }
-        }
-    }
-        return count;
+            near = far + 1;
+            far = farthest;
+        while (far < nums.length - 1) {
+
+        int near = 0, far = 0, jumps = 0;
+    public int jump(int[] nums) {
+class Solution {
