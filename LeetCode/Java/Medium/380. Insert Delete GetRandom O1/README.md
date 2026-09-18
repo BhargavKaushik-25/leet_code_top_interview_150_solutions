@@ -8,8 +8,8 @@
 Array, Hash Table, Math, Design, Randomized
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 30 ms
+- **Memory:** 100.6 MB
 
 ---
 
