@@ -1,0 +1,11 @@
+
+        rand = new Random();
+    }
+        map = new HashMap<>();
+        list = new ArrayList<>();
+    public RandomizedSet() {
+
+    private Random rand;
+    private Map<Integer, Integer> map;          // value -> index in list
+private List<Integer> list;                 // stores the values
+class RandomizedSet {
