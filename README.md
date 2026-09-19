@@ -15,6 +15,7 @@ This repository contains my solutions of the top interview 150 questions of leet
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0189-rotate-array) |
+| [0238-product-of-array-except-self](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0274-h-index) |
 ## Two Pointers
 |  |
@@ -65,4 +66,8 @@ This repository contains my solutions of the top interview 150 questions of leet
 |  |
 | ------- |
 | [0274-h-index](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0274-h-index) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
