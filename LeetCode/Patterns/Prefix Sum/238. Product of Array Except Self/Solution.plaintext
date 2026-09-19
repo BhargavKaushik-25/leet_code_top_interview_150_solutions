@@ -1,0 +1,11 @@
+                prod = prod * nums[j];
+                }
+                    continue;
+                if(i == j){
+            for (int j = 0; j< nums.length; j++){
+            int prod = 1;
+       for( int i = 0;i< nums.length; i++){
+
+       int[] answer = new int[nums.length];
+    public int[] productExceptSelf(int[] nums) {
+class Solution {

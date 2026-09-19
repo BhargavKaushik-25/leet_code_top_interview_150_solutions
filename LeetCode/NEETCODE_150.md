@@ -3,7 +3,7 @@
 Track your progress on the NeetCode 150 roadmap practice problems.
 
 ## Progress
-- **Completed:** 3 / 150 (2.0%)
+- **Completed:** 4 / 150 (2.7%)
 
 ---
 
@@ -15,7 +15,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Two Sum
 - [ ] Group Anagrams
 - [ ] Top K Frequent Elements
-- [ ] Product of Array Except Self
+- [x] [Product of Array Except Self](./Plaintext/Medium/238. Product of Array Except Self/)
 - [ ] Valid Sudoku
 - [ ] Encode and Decode Strings
 - [ ] Longest Consecutive Sequence
