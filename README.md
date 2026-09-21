@@ -14,6 +14,7 @@ This repository contains my solutions of the top interview 150 questions of leet
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0135-candy) |
 | [0169-majority-element](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0238-product-of-array-except-self) |
@@ -64,6 +65,7 @@ This repository contains my solutions of the top interview 150 questions of leet
 | [0055-jump-game](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0135-candy) |
 ## Counting Sort
 |  |
 | ------- |
