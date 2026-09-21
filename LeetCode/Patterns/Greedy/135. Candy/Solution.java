@@ -1,5 +1,6 @@
 class Solution {
-      int n = ratings.length;
+    public int candy(int[] ratings) {
+         int n = ratings.length;
         int[] candies = new int[n];
 
         // Step 1: Every child gets at least 1 candy
@@ -30,4 +31,5 @@ class Solution {
         }
 
         return total;
+    }
 }
