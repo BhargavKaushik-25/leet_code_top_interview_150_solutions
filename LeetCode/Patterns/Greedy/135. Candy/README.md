@@ -1,8 +1,8 @@
 # 📝 135. Candy (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/candy/)
+🔗 [Problem Link](https://leetcode.com/problems/candy/?envType=study-plan-v2&envId=top-interview-150)
 
-![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Java-blue)
+![Difficulty](https://img.shields.io/badge/Difficulty-Hard-red) ![Language](https://img.shields.io/badge/Language-Plaintext-blue)
 
 ### 💡 Tags
 Array, Greedy
