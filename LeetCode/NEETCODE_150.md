@@ -25,7 +25,7 @@ Track your progress on the NeetCode 150 roadmap practice problems.
 - [ ] Two Sum II - Input Array Is Sorted
 - [ ] 3Sum
 - [ ] Container With Most Water
-- [x] [Trapping Rain Water](./Plaintext/Hard/42. Trapping Rain Water/)
+- [x] [Trapping Rain Water](./Java/Hard/42. Trapping Rain Water/)
 
 ### 📂 Sliding Window
 - [x] [Best Time to Buy and Sell Stock](./Java/Easy/121. Best Time to Buy and Sell Stock/)
