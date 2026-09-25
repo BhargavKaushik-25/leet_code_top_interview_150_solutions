@@ -38,6 +38,7 @@ This repository contains my solutions of the top interview 150 questions of leet
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0169-majority-element) |
 ## Divide and Conquer
@@ -55,6 +56,7 @@ This repository contains my solutions of the top interview 150 questions of leet
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0189-rotate-array) |
 ## Dynamic Programming
@@ -90,5 +92,6 @@ This repository contains my solutions of the top interview 150 questions of leet
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
