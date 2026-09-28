@@ -94,4 +94,5 @@ This repository contains my solutions of the top interview 150 questions of leet
 | ------- |
 | [0012-integer-to-roman](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0013-roman-to-integer) |
+| [0058-length-of-last-word](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
