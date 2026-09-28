@@ -6,6 +6,7 @@ This repository contains my solutions of the top interview 150 questions of leet
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0042-trapping-rain-water) |
@@ -94,5 +95,10 @@ This repository contains my solutions of the top interview 150 questions of leet
 | ------- |
 | [0012-integer-to-roman](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0058-length-of-last-word) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
