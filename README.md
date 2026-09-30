@@ -94,6 +94,7 @@ This repository contains my solutions of the top interview 150 questions of leet
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0006-zigzag-conversion) |
 | [0012-integer-to-roman](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/BhargavKaushik-25/leet_code_top_interview_150_solutions/tree/master/0014-longest-common-prefix) |
