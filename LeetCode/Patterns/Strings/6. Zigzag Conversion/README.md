@@ -1,6 +1,6 @@
 # 📝 6. Zigzag Conversion (LeetCode)
 
-🔗 [Problem Link](https://leetcode.com/problems/zigzag-conversion/?envType=study-plan-v2&envId=top-interview-150)
+🔗 [Problem Link](https://leetcode.com/problems/zigzag-conversion/)
 
 ![Difficulty](https://img.shields.io/badge/Difficulty-Medium-orange) ![Language](https://img.shields.io/badge/Language-Java-blue)
 
@@ -8,8 +8,8 @@
 String
 
 ### 🚀 Performance
-- **Runtime:** N/A
-- **Memory:** N/A
+- **Runtime:** 5 ms
+- **Memory:** 46.7 MB
 
 ---
 
