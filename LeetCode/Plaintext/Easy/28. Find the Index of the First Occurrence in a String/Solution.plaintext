@@ -1,0 +1,12 @@
+            while (j < needle.length() && haystack.charAt(i + j) == needle.charAt(j)) {
+                j++;
+            }
+            // If we matched all characters of needle
+            if (j == needle.length()) {
+                return i;
+            }
+        }
+
+        return -1;
+    }
+}
